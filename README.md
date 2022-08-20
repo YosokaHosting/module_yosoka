@@ -33,3 +33,23 @@
 Scan qr code from the above button, u can pay through Gopay , Dana , Ovo , Alpayment </p>
 <p align="left"> Tidak
 Menerima Nope / Nomor</p>
+
+## For Termux
+```bash
+apt update && apt upgrade
+pkg install ffmpeg
+pkg install imagemagick
+pkg install nodejs
+pkg install libwebp
+termux-setup-storage
+cd /sdcard
+ls ( l nya harus kecil )
+cd ( nama file )
+git clone https://github.com/YosokaHosting/module_yosoka
+cd host2
+node . ( Pake titik . )
+```
+## ``` MY REDIT BY YOSNESIA ``` ##
+<a href="https://github.com/adiwajshing"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg" width="100" height="100"></a> | [![FAJAR](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official) 
+[Adiwajshing](https://github.com/adiwajshing) | [Ramdani Official](https://Ramdani Official.github.io)
+Owner of Baileys | Owner of Api Ramdani Botz |
