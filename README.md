@@ -49,6 +49,12 @@ git clone https://github.com/YosokaHosting/module_yosoka
 cd host2
 node . ( Pake titik . )
 ```
+
+# Bugs and Tester
+* Jika kamu menemukan bug jangan lupa buka Issues
+* Info Lebih Lanjut, Chat [owner-YosokaBotz](https://wa.me/6285891634201)
+
+
 ## ``` MY REDIT BY YOSNESIA ``` ##
 <a href="https://github.com/YosokaHosting"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg?size=100" width="100" height="100"></a> | [![NURUTOMO](https://i.ibb.co/f8JTyth/hisoka.jpg?size=100)](https://github.com/YosokaHosting) 
 ---|---
