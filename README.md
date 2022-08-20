@@ -50,4 +50,6 @@ cd host2
 node . ( Pake titik . )
 ```
 ## ``` MY REDIT BY YOSNESIA ``` ##
-<a href="https://github.com/YosokaHosting/module_yosoka"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg" width="100" height="100"></a>
+<a href="https://github.com/adiwajshing"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg" width="100" height="100"></a> | [![FAJAR](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official) 
+[Adiwajshing](https://github.com/adiwajshing) | [Ramdani Official](https://Ramdani Official.github.io)
+Owner of Baileys | Owner of Api Ramdani Botz |
