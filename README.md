@@ -54,6 +54,12 @@ node . ( Pake titik . )
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [owner-YosokaBotz](https://wa.me/6285891634201)
 
+# INFO INFO MASZEHHH
+* Btw kalo udah ( git clone https://github.com/YosokaHosting/module_yosoka ) Janggan lupa
+* Modulenya lu download dulu terlebih dahulu ketik ( git clone https://github.com/KurrXd/node_modules ) kalo sudah tinggal scan
+* Apabila masih terjadi bacaan seperti ini ( '/storage/emulated/0/host2/config.js'/storage/emulated/0/host2/index.js' ) janggan lupa install node.module nya yo
+* Info Lebih Lanjut, Chat [owner-YosokaBotz](https://wa.me/6285891634201)
+* Khusus yang beli kurang paham ? Info selanjutnya chat admin / owner 
 
 ## ``` MY REDIT BY YOSNESIA ``` ##
 <a href="https://github.com/YosokaHosting"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg?size=100" width="100" height="100"></a> | [![NURUTOMO](https://i.ibb.co/f8JTyth/hisoka.jpg?size=100)](https://github.com/YosokaHosting) 
