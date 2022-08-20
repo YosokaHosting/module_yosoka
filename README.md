@@ -50,6 +50,7 @@ cd host2
 node . ( Pake titik . )
 ```
 ## ``` MY REDIT BY YOSNESIA ``` ##
-<a href="https://github.com/adiwajshing"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg" width="100" height="100"></a> | [![FAJAR](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official) 
-[Adiwajshing](https://github.com/adiwajshing) | [Ramdani Official](https://Ramdani Official.github.io)
-Owner of Baileys | Owner of Api Ramdani Botz |
+<a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+---|---
+[Ramdani Official](https://github.com/Ramdaniofficial)  | [Nurutomo](https://github.com/Nurutomo)
+Developer Ramdani bot v12 | Constributor |
