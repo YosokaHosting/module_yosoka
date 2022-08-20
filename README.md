@@ -50,7 +50,7 @@ cd host2
 node . ( Pake titik . )
 ```
 ## ``` MY REDIT BY YOSNESIA ``` ##
-<a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/YosokaHosting"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg" width="100[(YOSOKA) https://i.ibb.co/f8JTyth/hisoka.jpg?size=100)](https://github.com/YosokaHosting) 
 ---|---
 [Ramdani Official](https://github.com/Ramdaniofficial)  | [Nurutomo](https://github.com/Nurutomo)
 Developer Ramdani bot v12 | Constributor |
