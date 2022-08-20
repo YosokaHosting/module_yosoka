@@ -52,5 +52,5 @@ node . ( Pake titik . )
 ## ``` MY REDIT BY YOSNESIA ``` ##
 <a href="https://github.com/YosokaHosting"><img src="https://i.ibb.co/f8JTyth/hisoka.jpg?size=100" width="100" height="100"></a> | [![NURUTOMO](https://i.ibb.co/f8JTyth/hisoka.jpg?size=100)](https://github.com/YosokaHosting) 
 ---|---
-[Ramdani Official](https://github.com/YosokaHosting)  | [Nurutomo](https://github.com/YosokaHosting)
-Developer Ramdani bot v12 | Constributor |
+[Yosoka Official](https://github.com/YosokaHosting)  | [YosokaHosting](https://github.com/YosokaHosting)
+Developer YosokaCode`X Bot Hosting V1 | Owner : YosokaNesia |
