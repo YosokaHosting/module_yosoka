@@ -56,7 +56,7 @@ node . ( Pake titik . )
 
 # INFO INFO MASZEHHH
 * Btw kalo udah ( git clone https://github.com/YosokaHosting/module_yosoka ) Janggan lupa
-* Modulenya lu download dulu terlebih dahulu ketik ( git clone https://github.com/KurrXd/node_modules ) kalo sudah tinggal scan
+* Modulenya lu download dulu terlebih dahulu ketik ( git clone Mao module aslinya ? Buy lah :v ) kalo sudah tinggal scan
 * Apabila masih terjadi bacaan seperti ini ( '/storage/emulated/0/host2/config.js'/storage/emulated/0/host2/index.js' ) janggan lupa install node.module nya yo
 * Khusus yang beli kurang paham ? Info selanjutnya chat admin / owner ( NO ? DI BWH INI )
 * Info Lebih Lanjut, Chat [owner-YosokaBotz](https://wa.me/6285891634201)
